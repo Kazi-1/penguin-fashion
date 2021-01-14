@@ -1,0 +1,44 @@
+.header-area{
+    background-color: rgb(255,251,240);
+    height: 750px;
+    overflow: hidden;
+    
+}
+.margin-top{
+    margin-top: 70px;
+}
+.header-content h1{
+    font-weight: bold;
+    font-size: 50px;
+}
+.header-content button {
+    width: 150px;
+    background-color: #92ab30;
+    border: none; 
+    padding: 15px 0;
+    border-radius: 10px;
+}
+.shopping-cart-area{
+    padding: 100px 0;
+}
+.footer-card button{
+ background-color: #92ab30;
+ border: none;
+}
+.image-border img{
+    border: 1px solid white;
+    margin-top: 5px;
+    padding: 30px;
+    height: 70%;
+    width: 90%;
+    border-radius: 20px;
+    background-color: rgb(241,241,241);
+}
+.card-border{
+    border-radius: 20px;
+    padding-top: 20px;
+}
+.logo{
+    max-width: 80%;
+    max-height: 80%;
+}
